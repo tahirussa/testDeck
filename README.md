@@ -8,3 +8,4 @@ Make an edit to this readme file on gh-pages branch. (You can do this directly o
 Commit the change.
 
 Go to tahirhussa.github.io/testDeck/index.html And the presentation should be rendered
+Run the fike indrx.html in google chrome.

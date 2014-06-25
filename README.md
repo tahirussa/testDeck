@@ -7,4 +7,4 @@ Make an edit to this readme file on gh-pages branch. (You can do this directly o
 
 Commit the change.
 
-Go to tahirhussa.github.io/testDeck/index.html And the presentation should be rendered
+Go to tahirhussa.github.io/testDeck/index.html And the presentation should be rendered. If you wish to see the slifify slides presentation,you can run index.html in google chrome. 
